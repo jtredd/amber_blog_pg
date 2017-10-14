@@ -1,0 +1,2 @@
+pg:
+  database: postgresql://user:password:@host:5432/amber_blog
